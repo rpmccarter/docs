@@ -5,6 +5,7 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
+  "backgroundImage": "/images/checks-passed.png",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
